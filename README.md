@@ -1,8 +1,8 @@
-# Hi, Welsome to Finding Tau Lab 👋
+# Hi, Welcome to Finding Tau Lab 👋
 
 **τ (tau) is defined as the ratio of a circle’s circumference to its radius.**  
 
-Tau is pure ratio and proportion. Tau is wholeness, not half-measures. At Finding Tau Lab, we use this as a philosophical lens in both life and work: seeking balance, finding the true ratio in complex situations, and pursuing complete understanding rather than partial answers.
+At Finding Tau Lab, we use this as a philosophical lens in both life and work: seeking balance, finding the true ratio in complex situations, and pursuing complete understanding rather than partial answers.
 
 We bring this mindset to analytics. With 11+ years of high-stakes operations leadership, I now apply structured problem-solving and process discipline to **data analytics** — turning raw, unstructured data into clear, reproducible insights that drive real decisions.
 
