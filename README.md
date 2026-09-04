@@ -6,26 +6,26 @@ At Finding Tau Lab, we use this as a philosophical lens in both life and work: s
 
 We bring this mindset to analytics. With 11+ years of high-stakes operations leadership, I now apply structured problem-solving and process discipline to **data analytics** — turning raw, unstructured data into clear, reproducible insights that drive real decisions.
 
----
+# Finding Tau Lab
 
-**Ops leader with 11+ years of high-stakes experience**, now applying structured problem-solving and process discipline to **data analytics**. Passionate about turning raw data into clear, reproducible insights that drive real decisions.
+U.S. Marine Corps veteran. 11+ years leading high-stakes operations; now applying that same discipline to messy operational data.
 
-### Skills & Tools
+I sit with the real workflow, pull signal out of unstructured text and production systems, and ship tools people actually use.
 
-- **Languages**: Python (Pandas, NumPy, scikit-learn), SQL  
-- **Analytics**: Exploratory data analysis, text mining / NLP, metrics & performance reporting  
-- **Visualization**: Power BI, Matplotlib, Seaborn  
-- **Workflow**: Git, Jupyter notebooks, reproducible pipelines  
+**Aim:** American Tech Fellowship and forward-deployed / deployment-strategist work — Palantir AIP & Foundry, defense and industrial operations.
 
-### Featured Projects
+### What I bring
+- **Problem framing in the field** — name the decision, find the pain, ignore theater
+- **Text + ops pipelines** — Python, SQL, speech/NLP on noisy transcripts (burst detection, Fightin’ Words, c-TF-IDF)
+- **Ship and measure** — cut cycle time, put a number on the result, kill work that does not pay off
 
-- **Call Transcript Analyzer** → Extracting customer insights from unstructured text data  
-- **Operations Metrics Dashboard** → Identifying anomalies and improvement opportunities
-- 🌱 I’m currently learning ...
-## Background
-Bringing military operations experience into the data analysis world. Focused on clean code, clear documentation, and results that matter.
+### Work samples
+- **Spike RCA pipeline** — Replaced a 50-minute manual review of speech-analytics alerts with a Python pipeline (intelligent sampling → full transcripts → structured RCA). Turnaround 12–15 minutes (~70% faster), deeper sample, same-day answer for ops leadership.
+- **Call-driver text mining** — Beyond keyword volume: scored client phrases in tax-season transcripts so leadership could see *why* contacts spiked. Supported a sustained drop in tax-document call volume.
+- **Stop-the-work analysis** — Average Treatment Effect study on an advocacy program. Recommendation: terminate and reallocate. Deployment is also knowing what not to scale.
 
+Pinned repos for the first two will land here as they are documented for public use.
 
----
+### Connect
+- [LinkedIn]
 
-Built with discipline. Always learning.
