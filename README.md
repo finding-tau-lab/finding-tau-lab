@@ -12,7 +12,7 @@ I sit with the real workflow, pull signal out of unstructured text and productio
 - **Ship and measure** — cut cycle time, put a number on the result, kill work that does not pay off
 
 ### Work samples
--[Spike RCA pipeline](https://github.com/finding-tau-lab/quillmere-spike-rca) — Replaced a 50-minute manual review of speech-analytics alerts with a Python pipeline (intelligent sampling → full transcripts → structured RCA). Turnaround 12–15 minutes (~70% faster), deeper sample, same-day answer for ops leadership. Public repo is a synthetic reconstruction of the method, not employer data.
+- [Spike RCA pipeline](https://github.com/finding-tau-lab/quillmere-spike-rca) — Replaced a 50-minute manual review of speech-analytics alerts with a Python pipeline (intelligent sampling → full transcripts → structured RCA). Turnaround 12–15 minutes (~70% faster), deeper sample, same-day answer for ops leadership. Public repo is a synthetic reconstruction of the method, not employer data.
 - **Call-driver text mining** — Beyond keyword volume: scored client phrases in tax-season transcripts so leadership could see *why* contacts spiked. Supported a sustained drop in tax-document call volume.
 - **Stop-the-work analysis** — Average Treatment Effect study on an advocacy program. Recommendation: terminate and reallocate. Deployment is also knowing what not to scale.
 
