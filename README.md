@@ -8,7 +8,7 @@ I sit with the real workflow, pull signal out of unstructured text and productio
 
 ### What I bring
 - **Problem framing in the field** — find the pain, name the decision, ignore theater
-- **Text + ops pipelines** — Python, SQL, and NLP on noisy operational text; same problem solving on whatever system is generating the mess
+- **Text + ops pipelines** — Python, SQL & NLP on noisy operational text; same problem solving on whatever system is generating the mess
 - **Ship and measure** — cut cycle time, put a number on the result, kill work that does not pay off
 
 ### Work samples
