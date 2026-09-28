@@ -1,6 +1,6 @@
 # Finding Tau Lab
 
-Military veteran. 11+ years partnering with teams in high-risk environments; now applying that same focus to messy operational data.
+Military veteran. 11+ years partnering with teams in high-risk environments; now applying that same problem solving to messy operational data.
 
 I sit with the real workflow, pull signal out of unstructured text and production systems, and ship tools people actually use.
 
