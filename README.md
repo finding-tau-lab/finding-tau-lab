@@ -4,11 +4,11 @@ Military veteran. 11+ years problem solving with teams in high-risk environments
 
 I sit with the real workflow, pull signal out of unstructured text and production systems, and ship tools people actually use.
 
-**Aim:** Embedded delivery and applied NLP — structure messy speech and document streams, put the insight in the workflow the team already uses.
+**Aim:** Embedded delivery — sit with the workflow, pull signal out of messy operational systems, put the answer where the team already works.
 
 ### What I bring
-- **Problem framing in the field** — name the decision, find the pain, ignore theater
-- **Text + ops pipelines** — Python, SQL, speech/NLP on noisy transcripts (burst detection, Fightin’ Words, c-TF-IDF)
+- **Problem framing in the field** — find the pain, name the decision, ignore theater
+- **Text + ops pipelines** — Python, SQL, and NLP on noisy operational text; same problem solving on whatever system is generating the mess
 - **Ship and measure** — cut cycle time, put a number on the result, kill work that does not pay off
 
 ### Work samples
